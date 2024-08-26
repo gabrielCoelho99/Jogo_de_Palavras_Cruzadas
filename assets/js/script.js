@@ -1,0 +1,1 @@
+const palavras = ["MAÇA", "GOIABA", "BANANA", "UVA", "PÊRA", "SALSICHA", "OVO", "TEMPERO","FARINHA", "CALABRESA", "PINGA", "LIMÃO", "TOMATE", "CEBOLA", "PIMENTÃO"]
